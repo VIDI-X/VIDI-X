@@ -6,8 +6,6 @@ VIDI Project X is a developing microcomputer, completely designed, and developed
 
 - 👨‍💻 VIDI X projects are available at [https://vidi-x.org/vidi-x_radionice/](https://vidi-x.org/vidi-x_radionice/)
 
-- 📫 How to reach me **info@vidi-x.org**
- 
 <center>
     <table>
         <tr>
