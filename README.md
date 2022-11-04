@@ -3,3 +3,30 @@ VIDI Project X is a developing microcomputer, completely designed, and developed
 - 👀 If You’re interested in VIDI Project X visit the link [https://vidi-x.org](https://vidi-x.org/)
 
 ![Vidi Project X microcomputer](https://vidilab.com/media/k2/items/cache/679aa550c461b354cef4c5f72fe8c7ab_XL.jpg)
+
+- 👨‍💻 VIDI X projects are available at [https://vidi-x.org/vidi-x_radionice/](https://vidi-x.org/vidi-x_radionice/)
+
+- 📫 How to reach me **info@vidi-x.org**
+ 
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=VIDI-X&show_icons=true&theme=react&hide_border=true" />
+            </td>
+            <td>
+                <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VIDI-X&theme=react&hide_border=true" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+---
+
+## Github Trophies: 🏆️
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=VIDI-X&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="VIDI-X points"/>
+</p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VIDI-X&theme=react-dark&hide_border=true)  
