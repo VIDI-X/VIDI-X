@@ -19,11 +19,3 @@ VIDI Project X is a developing microcomputer, completely designed, and developed
 </center>  
 
 ---
-
-## Github Trophies: 🏆️
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=VIDI-X&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="VIDI-X points"/>
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VIDI-X&theme=react-dark&hide_border=true)  
