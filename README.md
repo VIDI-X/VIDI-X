@@ -2,10 +2,9 @@
 VIDI Project X is a developing microcomputer, completely designed, and developed in Croatia. It is powered by a powerful ESP32 processor, contains two cores and a TFT touchscreen. VIDI X is equipped with a few interesting sensors and a special port that allows additional expansion of functionality. The possibilities for usage of VIDI X microcomputer are endless. It is possible to attach additional sensors and use them to control complex systems like a smart house or classroom. Its Wi-Fi and BT communication properties are used to connect other external systems.
 - 👀 If You’re interested in VIDI Project X visit the link [https://vidi-x.org](https://vidi-x.org/)
 
-![Vidi Project X microcomputer](https://vidilab.com/media/k2/items/cache/679aa550c461b354cef4c5f72fe8c7ab_XL.jpg)
+<img width="4344" height="3448" alt="VidiX Slika-2139" src="https://github.com/user-attachments/assets/0f5515c2-9f3b-46de-a883-b27b6ab23606" />
 
-- 👨‍💻 VIDI X projects are available at [https://vidi-x.org/vidi-x_radionice/](https://vidi-x.org/vidi-x_radionice/)
-
+- 👨‍💻 VIDI X projects are available at [https://vidi-x.org/projects](https://vidi-x.org/projects/)
 <center>
     <table>
         <tr>
